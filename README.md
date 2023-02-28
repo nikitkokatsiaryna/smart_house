@@ -1,5 +1,6 @@
 # smarthome
 <h1>Курсовой проект "Web-приложение для управления умным домом". </h1>
+<h1>Course project "Web application for smart home management"</h1>
 <h4>Курс "Создание Web-сервисов на Python" by Московский физико-технический институт, Mail.Ru Group & ФРОО on Coursera.</h4>
 
 
